@@ -1,0 +1,11 @@
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.deps.json
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.json
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.dev.json
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.dll
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.pdb
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csprojAssemblyReference.cache
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfoInputs.cache
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfo.cs
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.dll
+C:\Users\Edi\Desktop\Rescue ASP\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.pdb
